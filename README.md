@@ -10,4 +10,6 @@ Import test.kml here - https://www.google.com/mymaps
 
 YOU WILL GET THE VISUALIZATION
 
+![image](https://user-images.githubusercontent.com/67184181/180658070-fb604819-fda0-40f8-90c4-404ee4368754.png)
+
 
